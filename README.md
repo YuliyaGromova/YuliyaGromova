@@ -28,6 +28,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
+### :smiley_cat: Связаться ср мной можно:
+- :calling: по телефону: +7(904)658-6120
+- :e-mail: по почте: GromovaJuliya0910@gmail.com
+
 ### :fire: Статистика :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YuliyaGromova)](https://git.io/streak-stats)
