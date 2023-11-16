@@ -28,7 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-### :smiley_cat: Связаться ср мной можно:
+### :smiley_cat: Связаться со мной можно:
 - :calling: по телефону: +7(904)658-6120
 - :e-mail: по почте: GromovaJuliya0910@gmail.com
 
