@@ -29,8 +29,8 @@
 </div>
 
 ### :smiley_cat: Связаться со мной можно:
-- :calling: по телефону: +7(904)658-6120
-- :e-mail: по почте: GromovaJuliya0910@gmail.com
+- [:calling:](+79046586120) по телефону: +7(904)658-6120
+- [:e-mail:](GromovaJuliya0910@gmail.com) по почте: GromovaJuliya0910@gmail.com
 
 ### :fire: Статистика :
 
